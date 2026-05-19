@@ -1,0 +1,24 @@
+{
+  "overview": "Bold, professional single-page landing website for Bahasa Holdings Pty (Ltd) — a South African Configuration Management and industrial plant labelling company with 10+ years serving Eskom power stations. Features a dark industrial aesthetic, authentic field photography gallery, service showcase, and lead-generation contact form.",
+  "features": [
+    "Hero section with field photography and dual CTAs",
+    "Who We Are intro with SVG logo and registration details",
+    "6-service cards with industrial icons",
+    "Proof of Work photo gallery with lightbox (12 images)",
+    "Why Choose stats and competitive advantage cards",
+    "Contact form with Google Maps embed",
+    "Mobile-first responsive design",
+    "Subtle scroll animations (fade-in)",
+    "WCAG AA accessible"
+  ],
+  "category": "showcase",
+  "tags": [
+    "landing-page",
+    "industrial",
+    "south-africa",
+    "configuration-management",
+    "b2b",
+    "portfolio"
+  ],
+  "last_updated": "2026-05-05T17:54:29.313Z"
+}
